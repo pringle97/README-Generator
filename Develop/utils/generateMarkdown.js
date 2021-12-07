@@ -19,19 +19,26 @@ ${data.repoName}
   Contributing
   Questions
 
-##  Description: ${data.description}
+##  Description: 
+${data.description}
   
-##  Installation: ${data.installation}
+##  Installation: 
+${data.installation}
 
-##  Usage: ${data.usage}
+##  Usage: 
+${data.usage}
 
-##  Tests: ${data.tests}
+##  Tests: 
+${data.tests}
 
-##  License: ${data.license}
+##  License: 
+${data.license}
 
-##  Contributing: ${data.contributing}
+##  Contributing: 
+${data.contributing}
 
-##  Questions: If you have any questions about my project, please send me an email.
+##  Questions: 
+If you have any questions about my project, please send me an email.
 
 ##  Email: ${data.email}
 
