@@ -1,7 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-
   # ${data.title}
 -------------------------------
 ## GitHub Username:
@@ -38,10 +37,7 @@ ${data.license}
 ${data.contributing}
 
 ##  Questions: 
-If you have any questions about my project, please send me an email.
-
-##  Email: ${data.email}
-
+If you have any questions about my project, please send me an email at ${data.email}
 `;
 }
 
